@@ -33,3 +33,4 @@
 
 - [🔗 On-premise란?](https://bmk0703.tistory.com/188)
 ---
+- [🔗 LLM 필수 과제2 정리](https://bmk0703.tistory.com/189)
